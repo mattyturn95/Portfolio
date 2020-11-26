@@ -116,14 +116,14 @@ const Navbar = () => {
         <div>
 
             <Box component="nav">
-                <AppBar position="static" style={{ background: "#222" }}>
+                <AppBar position="static" style={{ background: "#222", height: "150px" }}>
 
                     <Toolbar>
                         <IconButton onClick={toggleSlider("right", true)}>
-                            <ArrowBack style={{ background: "tomato", borderRadius: "30px" }} />
+                            <ArrowBack style={{ background: "tomato", borderRadius: "30px", marginTop: "45px"}} />
                         </IconButton>
-                        <Typography variant="h5" style={{ color: "tan" }}>
-                            Portfolio
+                        <Typography onClick={toggleSlider("right", true)} variant="h5" style={{ color: "tan", cursor: "pointer", marginTop: "45px", fontSize: "50px"}}>
+                            Menu
                     </Typography>
                     <MobileRightMenuSlider anchor="right" open={state.right} onClose={toggleSlider("right", false)}>
                         {sideList('right')}
