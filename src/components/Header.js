@@ -9,7 +9,7 @@ import {
 import avatar from '../../src/images/profileavatar.png';
 
 import Typed from 'react-typed';
-import cv from '../cv/matthew-cv-(1).docx'
+import cv from '../cv/matthewturnerfrontenddeveloper.docx'
 
 // CSS STYLES
 
