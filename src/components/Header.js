@@ -62,10 +62,10 @@ const Header = () => {
             </Typography>
             <br />
             <Typography className={classes.subTitle} variant="h5">
-                <Typed strings={["FULL STACK WEB DEVELOPER",]} typeSpeed={50} />
+                <Typed strings={["FRONT END DEVELOPER",]} typeSpeed={50} />
             </Typography>
             <Typography className={classes.subTitle} variant="h5">
-                <Typed strings={["HTML", "CSS", "PYTHON", "JAVA-SCRIPT", "DJANGO", "MYSQL", "LESS", "&", "SASS", "API'S", "REACT", "HEROKU", "GITHUB", "WORDPRESS"]} typeSpeed={50} backSpeed={60} loop />
+                <Typed strings={["HTML", "CSS", "JAVASCRIPT", "REACT", "GIT", "PHP", "PYTHON","WORDPRESS"]} typeSpeed={50} backSpeed={60} loop />
             </Typography>
 
             <Grid className={classes.cvdownload} container justify="center">

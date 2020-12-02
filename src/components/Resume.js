@@ -123,80 +123,42 @@ const Resume = () => {
                 </Typography>
                 <Box component="div" className={classes.timeLine}>
                     <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-                        2016
+                        2020
                     </Typography>
                     <Box component="div" className={classes.timeLineItem}>
                         <Typography variant="h5" align="center" className={classes.subHeading}>
-                            Sales Executive
+                            Promoted to scrum Master (Internship)
                         </Typography>
                         <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            Burquip International, Cape Town, South Africa
+                            Babylon Radio Station - Dublin
                         </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            Responsible for dealing with customer accounts and overseeing the retail of the products that the company had to offer.
+                            •   Took concepts and produced design mockups and prototypes to strengthen designs, enhance user experiences and improve site interactions.<br />
+                            •	Provided effective project team leadership, ensuring high levels of motivation with continued professional development.<br />
+                            •	Managed and motivated project teams to promote collaboration and keep members on-task and productive.<br />
+                            •	Worked closely with the product owner to establish and deliver to the web developers needs.<br />
+
+
                         </Typography>
 
                     </Box>
-                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-                        2017
-                    </Typography>
                     <Box component="div" className={classes.timeLineItem}>
                         <Typography variant="h5" align="center" className={classes.subHeading}>
-                            Manager
+                            Junior Web Developer (Internship)
                         </Typography>
                         <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            Basic Bistro, Stellenbosch South Africa
+                            Babylon Radio Station - Dublin
                         </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            Whilst studying towards a BBA in Marketing at the Institute of Marketing and Management school of Stellenbosch, I was working part-time as the Second manager for a busy restaurant in the heart of Stellenbosch
-                        </Typography>
-                    </Box>
-                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-                        2017
-                    </Typography>
-                    <Box component="div" className={classes.timeLineItem}>
-                        <Typography variant="h5" align="center" className={classes.subHeading}>
-                            BBA In Marketing and Management
-                        </Typography>
-                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            IMM Institute for Marketing and Management
-                        </Typography>
-                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            Stellenbosch, South Africa
+                            •	Implemented Google campaigns and SEO for various types of websites. <br />
+                            •	Converted mock-ups into HTML, JavaScript, REACT and JSON.<br />
+                            •	Pitched in to assist senior developers when deadlines were pressing and staffing needs were minimal.<br />
+                            •	Utilized programming capabilities in PHP, REACT, HTML, CSS and other libraries as needed.<br />
+                            •	Took concepts and produced design mockups and prototypes to strengthen designs, enhance user experiences and improve site interactions.<br />
+
                         </Typography>
 
                     </Box>
-                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-                        2018
-                    </Typography>
-                    <Box component="div" className={classes.timeLineItem}>
-                        <Typography variant="h5" align="center" className={classes.subHeading}>
-                            Diploma In Full Stack Web Development
-                        </Typography>
-                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            Code Institute - Dublin
-                        </Typography>
-                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            Grade 2nd class honours
-                        </Typography>
-                    </Box>
-                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-                        2019
-                    </Typography>
-                    <Box component="div" className={classes.timeLineItem}>
-                        <Typography variant="h5" align="center" className={classes.subHeading}>
-                            The Hanger Boutique Waterford
-                        </Typography>
-                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            Website Design
-                        </Typography>
-                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            Designed & developed a boutique clothing store Website.
-                        </Typography>
-                    </Box>
-                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-                        2019-2020
-                    </Typography>
                     <Box component="div" className={classes.timeLineItem}>
                         <Typography variant="h5" align="center" className={classes.subHeading}>
                             Udemy Courses
@@ -217,22 +179,77 @@ const Resume = () => {
                     </Typography>
                     <Box component="div" className={classes.timeLineItem}>
                         <Typography variant="h5" align="center" className={classes.subHeading}>
-                            Junior Web Developer
+                            The Hanger Boutique Waterford
                         </Typography>
                         <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            Babylon Radio Station - Dublin
+                            Website Design
                         </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            As A Junior Web Developer I was Held responsible for the maintenance of the site and making sure that all aspects of elements and components were running effeciently throughout the companies site.
-                            Technologies used were the following --> <br />
-                            Java-Script <br />
-                            Html5 <br/>
-                            Css3 <br />
-                            PHP <br />
-                            Wordpress <br/>
+                            Designed & developed a boutique clothing store Website.
+                        </Typography>
+                    </Box>
+                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
+                        2019-2020
+                    </Typography>
+                    <Box component="div" className={classes.timeLineItem}>
+                        <Typography variant="h5" align="center" className={classes.subHeading}>
+                            Diploma In Full Stack Web Development
+                        </Typography>
+                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
+                            Code Institute - Dublin
+                        </Typography>
+                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
+                            Grade 2nd class honours
+                        </Typography>
+                    </Box>
+                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
+                        2019
+                    </Typography>
+                    <Box component="div" className={classes.timeLineItem}>
+                        <Typography variant="h5" align="center" className={classes.subHeading}>
+                            BBA In Marketing and Management
+                        </Typography>
+                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
+                            IMM Institute for Marketing and Management
+                        </Typography>
+                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
+                            Stellenbosch, South Africa
                         </Typography>
 
                     </Box>
+                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
+                        2018
+                    </Typography>
+                    <Box component="div" className={classes.timeLineItem}>
+                        <Typography variant="h5" align="center" className={classes.subHeading}>
+                            Manager
+                        </Typography>
+                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
+                            Basic Bistro, Stellenbosch South Africa
+                        </Typography>
+                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
+                            Whilst studying towards a BBA in Marketing at the Institute of Marketing and Management school of Stellenbosch, I was working part-time as the Second manager for a busy restaurant in the heart of Stellenbosch
+                        </Typography>
+                    </Box>
+                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
+                        2017
+                    </Typography>
+                    <Box component="div" className={classes.timeLineItem}>
+                        <Typography variant="h5" align="center" className={classes.subHeading}>
+                            Sales Executive
+                        </Typography>
+                        <Typography variant="body1" align="center" style={{ color: "tomato" }}>
+                            Burquip International, Cape Town, South Africa
+                        </Typography>
+                        <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
+                            Responsible for dealing with customer accounts and overseeing the retail of the products that the company had to offer.
+                        </Typography>
+
+                    </Box>
+                    <Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
+                        2017
+                    </Typography>
+
                 </Box>
             </Box>
 

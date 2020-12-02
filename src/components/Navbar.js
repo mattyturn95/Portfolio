@@ -122,7 +122,7 @@ const Navbar = () => {
                         <IconButton onClick={toggleSlider("right", true)}>
                             <ArrowBack style={{ background: "tomato", borderRadius: "30px", marginTop: "45px"}} />
                         </IconButton>
-                        <Typography onClick={toggleSlider("right", true)} variant="h5" style={{ color: "tan", cursor: "pointer", marginTop: "45px", fontSize: "50px"}}>
+                        <Typography onClick={toggleSlider("right", true)} variant="h5" style={{ color: "tan", cursor: "pointer", marginTop: "45px", fontSize: "50px", textAlign: "center"}}>
                             Menu
                     </Typography>
                     <MobileRightMenuSlider anchor="right" open={state.right} onClose={toggleSlider("right", false)}>
